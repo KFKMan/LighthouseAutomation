@@ -1,1 +1,4 @@
 # LighthouseAutomation
+
+Educational Purposes Only.
+
